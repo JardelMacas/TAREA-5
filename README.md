@@ -1,8 +1,6 @@
 # TAREA-5
 # INFORME TAREA 5 
-Hola soy edwin
 
-Hola soy Jerson
 
 AUTORES: JERSON CHAMBA-JARDEL MACAS - EDWIN MONTENEGRO 
 
