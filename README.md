@@ -25,6 +25,35 @@ Objetivos Especificos
 
 
 **CAPITULO 9**
+
+7. Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
+
+9. Repita el problema 7 para el circuito de la figura 9-83.
+
+11. Vea el circuito de la figura 9-85:
+a Encuentre el circuito equivalente de Thévenin externo a RL.
+b. Use el circuito equivalente para determinar Vab cuando RL=20ohm y cuando RL=50ohm.
+
+13. Vea el circuito de la figura 9-87:
+a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
+b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
+
+15. Vea el circuito de la figura 9-89:
+a. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican.
+b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas que se indican.
+
+17. Vea el circuito de la figura 9-91:
+a. Encuentre el circuito equivalente de Thévenin externo a RL.
+b. Use el circuito equivalente de Thévenin para encontrar la corriente I
+cuando RL=0, 10 kohm y 50 kohm
+
+19. Repita el problema 17 para el circuito de la figura 9-93.
+
+21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
+
+23. Repita el problema 22 para el circuito de la figura 9-97.
+
+
 ![CAPITULO 9_Ejer_25_33_00001](https://user-images.githubusercontent.com/84453441/126026808-3f3c99fc-b85b-4ebe-ba04-b57b19d9359e.png)
 ![CAPITULO 9_Ejer_25_33_00002](https://user-images.githubusercontent.com/84453441/126026826-26c8f9b4-24b6-4dff-bea2-209710899dfc.png)
 ![CAPITULO 9_Ejer_25_33_00003](https://user-images.githubusercontent.com/84453441/126026859-0e136119-c6a9-4dea-8a62-659f048ebd6f.png)
@@ -54,7 +83,25 @@ Objetivos Especificos
 
 **CAPITULO 10**
 
+17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la
+ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
 
+19. La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el
+voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
+
+21. Un capacitor de 25 F tiene un coeficiente de temperatura negativo de 175 ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
+
+39. Repita el problema 38 para el circuito de la figura 10-39.
+
+41. Para la figura 10-41, determine Cx.
+
+43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente iC a escala con valores numéricos.
+
+45. Si el voltaje en un capacitor de 4.7 F es vC=100e0.05t V, ¿qué valor tiene iC?
+
+47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t= 0, 1, 4, 5, 7 y 9 ms.
+
+49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
 
 **4.VIDEO**
 
