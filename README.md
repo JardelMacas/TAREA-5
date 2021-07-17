@@ -27,6 +27,8 @@ Objetivos Especificos
 
 
 **CAPITULO 9**
+9-3 Teorema de Norton
+25.Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
 
 
 
