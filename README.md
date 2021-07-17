@@ -82,6 +82,11 @@ cuando RL=0, 10 kohm y 50 kohm
 
 
 **CAPITULO 10**
+![CAPITULO 10_Cap_1_16_00001](https://user-images.githubusercontent.com/84453441/126051605-e62e0838-ba0a-4487-9659-fa194f522d29.png)
+![CAPITULO 10_Cap_1_16_00002](https://user-images.githubusercontent.com/84453441/126051606-9209cda9-9741-4ec4-8f83-9a98b1961b59.png)
+![CAPITULO 10_Cap_1_16_00003](https://user-images.githubusercontent.com/84453441/126051608-902fe872-8382-4ae6-b66b-321b6d601488.png)
+![CAPITULO 10_Cap_1_16_00004](https://user-images.githubusercontent.com/84453441/126051612-2828e07d-c479-4c83-aa7c-2074bb399c06.png)
+
 
 17. Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la
 ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
