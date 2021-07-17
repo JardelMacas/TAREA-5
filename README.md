@@ -27,8 +27,19 @@ Objetivos Especificos
 
 
 **CAPITULO 9**
-9-3 Teorema de Norton
-25.Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
+![CAPITULO 9_Ejer_25_33_00001](https://user-images.githubusercontent.com/84453441/126026808-3f3c99fc-b85b-4ebe-ba04-b57b19d9359e.png)
+![CAPITULO 9_Ejer_25_33_00002](https://user-images.githubusercontent.com/84453441/126026826-26c8f9b4-24b6-4dff-bea2-209710899dfc.png)
+![CAPITULO 9_Ejer_25_33_00003](https://user-images.githubusercontent.com/84453441/126026859-0e136119-c6a9-4dea-8a62-659f048ebd6f.png)
+![CAPITULO 9_Ejer_25_33_00004](https://user-images.githubusercontent.com/84453441/126026869-8f0488a9-05e3-47dc-83bc-d1b4aaef11d0.png)
+![CAPITULO 9_Ejer_25_33_00005](https://user-images.githubusercontent.com/84453441/126026873-7b755aee-a799-4298-b185-dd386c555666.png)
+![CAPITULO 9_Ejer_25_33_00006](https://user-images.githubusercontent.com/84453441/126026875-5a3126ff-9e6f-4930-9264-d1d4417c9872.png)
+![CAPITULO 9_Ejer_25_33_00007](https://user-images.githubusercontent.com/84453441/126026880-51b9c6f7-331f-4104-8235-401d9b69e7ed.png)
+![CAPITULO 9_Ejer_25_33_00008](https://user-images.githubusercontent.com/84453441/126026888-fc75e079-6da9-45de-a15f-cfa7545f4ced.png)
+![CAPITULO 9_Ejer_25_33_00009](https://user-images.githubusercontent.com/84453441/126026893-f75cbf92-9064-404f-a00e-dcbbd7ccb202.png)
+![CAPITULO 9_Ejer_25_33_00010](https://user-images.githubusercontent.com/84453441/126026898-57d2b61e-6f82-4497-abd5-dd7da6644160.png)
+![CAPITULO 9_Ejer_25_33_00011](https://user-images.githubusercontent.com/84453441/126026901-5d86ce31-6d42-4304-be2b-8f4177564dc2.png)
+![CAPITULO 9_Ejer_25_33_00012](https://user-images.githubusercontent.com/84453441/126026915-c88a44d0-adb4-4935-b453-507e0eab22b5.png)
+
 
 
 
