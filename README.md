@@ -53,6 +53,8 @@ cuando RL=0, 10 kohm y 50 kohm
 
 23 Repita el problema 22 para el circuito de la figura 9-97.
 
+**9-3 Teorema de Norton**
+
 25.Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
 
 27.Repita el problema 25 para el circuito de la figura 9-83.
@@ -61,22 +63,23 @@ cuando RL=0, 10 kohm y 50 kohm
 a. Encuentre el circuito equivalente de Norton externo a RL. 
 b. Use el circuito equivalente para determinar IL cuando RL = 20 kΩ y cuando RL = 50 kΩ.
 
-31. a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87. 
+31.a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87. 
 b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
 
 33.Repita el problema 31 para el circuito de la figura 9-91.
 
 35.Repita el problema 31 para el circuito de la figura 9-95.
 
-9-4 Teorema de transferencia de máxima potencia 
-37. a. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga. 
+**9-4 Teorema de transferencia de máxima potencia** 
+
+37.a. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre la máxima potencia a la carga. 
 b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
 c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0 Ω a 50 kΩ en incrementos de 5 kΩ.
 
-39. a. para el circuito de la figura 9-99 encuentre el valor de R de manera que RL = RTh.
+39.a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL = RTh.
 b. Calcule la máxima potencia disipada por RL. 
 
-41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de una manera que la carga de 32 kΩ reciba la máxima potencia. 
+41.a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de una manera que la carga de 32 kΩ reciba la máxima potencia. 
 b. Calcule la máxima potencia suministrada por RL.   
 
 
