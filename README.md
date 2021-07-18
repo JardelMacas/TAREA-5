@@ -187,16 +187,21 @@ voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
 21. Un capacitor de 25 F tiene un coeficiente de temperatura negativo de 175 ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
 
 39. Repita el problema 38 para el circuito de la figura 10-39.
+![Screenshot_20210717-224828_Drive](https://user-images.githubusercontent.com/86451564/126055169-5049ed52-35e4-4227-bb96-578a8251d027.jpg)
 
 41. Para la figura 10-41, determine Cx.
 
 43. El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente iC a escala con valores numéricos.
+![Screenshot_20210717-224904_Drive](https://user-images.githubusercontent.com/86451564/126055178-0ba327ea-1284-4d2c-aa3e-0cf04f2c993e.jpg)
 
 45. Si el voltaje en un capacitor de 4.7 F es vC=100e0.05t V, ¿qué valor tiene iC?
+![Screenshot_20210717-224923_Drive](https://user-images.githubusercontent.com/86451564/126055189-5f67c826-cd9f-4d60-a2fd-6a9f1776169c.jpg)
 
 47. Para la figura 10-42 determine la energía del capacitor en cada uno de los siguientes tiempos: t= 0, 1, 4, 5, 7 y 9 ms.
+![Screenshot_20210717-224942_Drive](https://user-images.githubusercontent.com/86451564/126055193-186204e6-34cd-4f93-afb1-d3e464a0543f.jpg)
 
 49. Para cada caso mostrado en la figura 10-44, ¿cuál es la falla más probable?
+![Screenshot_20210717-224957_Drive](https://user-images.githubusercontent.com/86451564/126055197-0b32f962-81b0-46a9-97df-470e49fa5b4d.jpg)
 
 **4.VIDEO**
 
