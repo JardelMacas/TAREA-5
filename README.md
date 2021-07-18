@@ -105,29 +105,29 @@ b. Calcule la máxima potencia suministrada por RL.
 
 **10-1 Capacitancia**
 
-1. Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
+1.Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
 
-3. La carga en un capacitor de 50 µF es de 10 x 10^-3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
+3.La carga en un capacitor de 50 µF es de 10 x 10^-3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
 
-5. Se carga un capacitor 5 µF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?  
+5.Se carga un capacitor 5 µF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?  
 
 **10-2 Factores que afectan la capacitancia**
 
-7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguiente dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
+7.Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguiente dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
 
-9. La capacitancia de un capacitor lleno de aceites es de 200 pF. Si la separación entre las placas es de 0.1 mm, ¿Cuál es el área de las placas?
+9.La capacitancia de un capacitor lleno de aceites es de 200 pF. Si la separación entre las placas es de 0.1 mm, ¿Cuál es el área de las placas?
 
-11. Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 µF. Un segundo capacitor con dimensiones físicas idénticas, pero con un dieléctrico de mylar lleva una carga de 55 x 10^-4 C. ¿Cuál es su voltaje?  
+11.Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 µF. Un segundo capacitor con dimensiones físicas idénticas, pero con un dieléctrico de mylar lleva una carga de 55 x 10^-4 C. ¿Cuál es su voltaje?  
 
 **10-3 Campos eléctricos** 
 
-13. a. ¿Cuál es la intensidad del campo E a una distancia de 1 cm de una carga de 100 mC en aceite?
+13.a. ¿Cuál es la intensidad del campo E a una distancia de 1 cm de una carga de 100 mC en aceite?
 
-b. ¿Cuál es E al doble de la distancia?
+b.¿Cuál es E al doble de la distancia?
 
 **10-4 dieléctricos**
 
-15. Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura? 
+15.Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura? 
 
 
 
