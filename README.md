@@ -65,43 +65,22 @@ cuando RL=0, 10 kohm y 50 kohm
 **9-3 Teorema de Norton**
 
 25.Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
-![1](https://user-images.githubusercontent.com/84453441/126052689-a30578d2-1d73-4bac-bc7a-d1c4a8c0e4a4.png)
-![1 1](https://user-images.githubusercontent.com/84453441/126052693-efa031fc-b35c-4445-8a30-a788a4a30c0d.png)
 
 27.Repita el problema 25 para el circuito de la figura 9-83.
-![2](https://user-images.githubusercontent.com/84453441/126052705-cef3c292-8a21-4de5-a021-c595cdd61a62.png)
-![2 1](https://user-images.githubusercontent.com/84453441/126052709-4c5b9a23-95f6-4771-b7b1-ae31c38e4b7a.png)
-![2 2](https://user-images.githubusercontent.com/84453441/126052712-bdcb1af3-f1fa-4c3e-9c9d-9c1b5dd5da25.png)
 
 29.Vea el circuito de la figura 9-85: 
 
 a. Encuentre el circuito equivalente de Norton externo a RL. 
 
 b. Use el circuito equivalente para determinar IL cuando RL = 20 kΩ y cuando RL = 50 kΩ.
-![3](https://user-images.githubusercontent.com/84453441/126052725-45f12464-00a4-4ef0-a8a9-475985235ad0.png)
-![3 1](https://user-images.githubusercontent.com/84453441/126052729-0010d051-bbcc-403c-95e7-f369aa077372.png)
-![3 2](https://user-images.githubusercontent.com/84453441/126052732-c673de9d-de0b-4d09-ade3-d9dc82322570.png)
 
 31.a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87. 
 
 b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
-![4](https://user-images.githubusercontent.com/84453441/126052754-339866cc-98f7-45bc-a711-d42c831ed646.png)
-![4 1](https://user-images.githubusercontent.com/84453441/126052757-98131e80-de0c-4b65-b219-db4965b51e14.png)
-![4 2](https://user-images.githubusercontent.com/84453441/126052762-cba11dc3-1a1c-4681-a61d-fbe454839ea2.png)
 
 33.Repita el problema 31 para el circuito de la figura 9-91.
-![5](https://user-images.githubusercontent.com/84453441/126052774-3e9c2d88-2622-4acc-b1b9-26d526ee5670.png)
-![5 1](https://user-images.githubusercontent.com/84453441/126052779-602bbc65-2515-43c2-b57b-1f7bfe2ee620.png)
-![5 2](https://user-images.githubusercontent.com/84453441/126052782-9e011bb3-7682-4d3c-a247-02b5f674fe8b.png)
-![5 3](https://user-images.githubusercontent.com/84453441/126052787-529d67f3-8ba3-4ca0-b9d4-f0ae41e3b07c.png)
 
 35.Repita el problema 31 para el circuito de la figura 9-95.
-![6](https://user-images.githubusercontent.com/84453441/126052801-aefb4362-1dfe-4639-aa75-05cb6dec8177.png)
-![6 1](https://user-images.githubusercontent.com/84453441/126052804-8f530831-732f-4ec4-8586-ecc013bb9af3.png)
-![6 2](https://user-images.githubusercontent.com/84453441/126052806-78e78694-b1c2-4e0f-a076-dd059cd38108.png)
-![6 3](https://user-images.githubusercontent.com/84453441/126052809-29f335bc-26d8-49df-91d1-4dd25529ee91.png)
-![6 4](https://user-images.githubusercontent.com/84453441/126052816-e8e6b8f6-eeb6-4441-bbb2-3f0d7084d61b.png)
-![6 5](https://user-images.githubusercontent.com/84453441/126052818-cb6eb871-dccb-43e3-9075-e75a6588f15e.png)
 
 **9-4 Teorema de transferencia de máxima potencia** 
 
@@ -110,23 +89,15 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
 
 c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0 Ω a 50 kΩ en incrementos de 5 kΩ.
-![7](https://user-images.githubusercontent.com/84453441/126052843-51bc08af-e4f0-4536-9489-43753802da01.png)
-![7 1](https://user-images.githubusercontent.com/84453441/126052848-ae09e282-5800-4d60-95ee-ad0f78045526.png)
-![7 2](https://user-images.githubusercontent.com/84453441/126052852-9e9ac29c-298f-4487-9273-40a834af28cf.png)
 
 39.a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL = RTh.
 
 b. Calcule la máxima potencia disipada por RL. 
-![8](https://user-images.githubusercontent.com/84453441/126052855-991c37b4-4e2b-454c-b8ab-55cd87e3fca5.png)
-![8 1](https://user-images.githubusercontent.com/84453441/126052857-cb01f670-8e4e-4861-8eca-5bba87d2b500.png)
-![8 2](https://user-images.githubusercontent.com/84453441/126052863-6b1e40aa-afd6-4b54-967a-41736e9dc286.png)
 
 41.a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de una manera que la carga de 32 kΩ reciba la máxima potencia. 
 
 b. Calcule la máxima potencia suministrada por RL.   
-![9](https://user-images.githubusercontent.com/84453441/126052873-bd46dfc9-b2ac-42c0-8508-c578282d56ae.png)
-![9 1](https://user-images.githubusercontent.com/84453441/126052874-ca6ea084-062d-4dd4-ac00-b52962726ea2.png)
-![9 2](https://user-images.githubusercontent.com/84453441/126052877-66edec03-17a9-4946-9931-88d8b07cac68.png)
+
 
 
 
