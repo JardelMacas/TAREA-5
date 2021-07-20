@@ -310,11 +310,14 @@ b.¿Cuál es E al doble de la distancia?
 
 17 Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la
 ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
+![Screenshot_20210720-153340_Drive](https://user-images.githubusercontent.com/86451564/126392120-19338ecc-2d3a-461a-8e4f-61a90296b061.jpg)
 
 19 La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el
 voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
+![Screenshot_20210720-153402_Drive](https://user-images.githubusercontent.com/86451564/126392173-b75792ce-85e2-4cd6-8a8f-02acd6a33fc2.jpg)
 
 21 Un capacitor de 25 F tiene un coeficiente de temperatura negativo de 175 ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
+![Screenshot_20210720-153419_Drive](https://user-images.githubusercontent.com/86451564/126392236-0cf80a97-3632-4480-a2df-323bf0f2e0d6.jpg)
 
 23. ¿Cuál es la capacitancia equivalente de 10,12,22 y 33 Uf conectados en paralelo?
 ![imagen16](https://user-images.githubusercontent.com/84357979/126386080-b0dff9d0-1f41-4a04-b4a0-d383cd18e6ec.png)
@@ -348,6 +351,7 @@ voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
 ![Screenshot_20210717-224828_Drive](https://user-images.githubusercontent.com/86451564/126055169-5049ed52-35e4-4227-bb96-578a8251d027.jpg)
 
 41 Para la figura 10-41, determine Cx.
+![Screenshot_20210720-153518_Drive](https://user-images.githubusercontent.com/86451564/126392331-069054fe-80d1-46b9-8899-31ae0545182d.jpg)
 
 43 El voltaje en el capacitor de la figura 10-42(a) se muestra en (b). Dibuje la corriente iC a escala con valores numéricos.
 ![Screenshot_20210717-224904_Drive](https://user-images.githubusercontent.com/86451564/126055178-0ba327ea-1284-4d2c-aa3e-0cf04f2c993e.jpg)
