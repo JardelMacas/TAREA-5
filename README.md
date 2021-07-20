@@ -317,6 +317,28 @@ voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
 
 21 Un capacitor de 25 F tiene un coeficiente de temperatura negativo de 175 ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
 
+23. ¿Cuál es la capacitancia equivalente de 10,12,22 y 33 Uf conectados en paralelo?
+![imagen16](https://user-images.githubusercontent.com/84357979/126386080-b0dff9d0-1f41-4a04-b4a0-d383cd18e6ec.png)
+
+25. Repita el problema 23 si los capacitores están conectados en serie.
+
+![imagen17](https://user-images.githubusercontent.com/84357979/126386167-22daa724-3b02-4563-ba49-d20816a3f339.png)
+
+27) Determine C_T para cada uno de los circuitos de la figura 10-33.
+
+![image](https://user-images.githubusercontent.com/84357979/126386230-35efba9c-1e80-4862-9df6-810d5887edb3.png)
+
+![imagen18](https://user-images.githubusercontent.com/84357979/126386330-fda2efbb-f83e-42a9-bc07-255c87591a3d.png)
+
+![imagen19](https://user-images.githubusercontent.com/84357979/126386409-ce9e234a-0082-41b6-988c-fc3233c3a18c.png)
+
+![imagen20](https://user-images.githubusercontent.com/84357979/126386477-49017224-8412-409a-9bc9-bfe08b5c191e.png)
+
+29) Un capacitor de 30μF se conecta en paralelo con un capacitor de 60 μF y otro de 10 μF se conecta en serie con la combinación en paralelo ¿Cuál es el valor de C_T?
+
+![imagen21](https://user-images.githubusercontent.com/84357979/126386576-e4075141-d9e2-4d03-a837-52624b76520a.png)
+
+
 39 Repita el problema 38 para el circuito de la figura 10-39.
 ![Screenshot_20210717-224828_Drive](https://user-images.githubusercontent.com/86451564/126055169-5049ed52-35e4-4227-bb96-578a8251d027.jpg)
 
