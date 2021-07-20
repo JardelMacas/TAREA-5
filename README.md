@@ -19,6 +19,9 @@ Objetivos Especificos
 
 **2.MARCO TEORICO**
 
+![Resumen9](https://user-images.githubusercontent.com/84357979/126402449-2d51f22b-7802-4ee7-891f-e1460950da59.png)
+
+
 ![downloadfile(7)_page-0001](https://user-images.githubusercontent.com/86451564/126337396-6e00a0a5-ab51-4f4c-acdb-81e8dbec8b4d.jpg)
 
 
