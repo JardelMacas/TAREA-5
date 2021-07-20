@@ -35,7 +35,7 @@ Objetivos Especificos
 11 Vea el circuito de la figura 9-85:
 a Encuentre el circuito equivalente de Thévenin externo a RL.
 b. Use el circuito equivalente para determinar Vab cuando RL=20ohm y cuando RL=50ohm.
-![Screenshot_20210719-213234_Drive](https://user-images.githubusercontent.com/86451564/126253494-f208b839-da9d-44c2-83be-3f5d92cd2e1b.jpg)
+
 
 13 Vea el circuito de la figura 9-87:
 a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
