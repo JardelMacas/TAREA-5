@@ -27,40 +27,36 @@ Objetivos Especificos
 **CAPITULO 9**
 
 7 Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
-![Screenshot_20210717-211429_Drive](https://user-images.githubusercontent.com/86451564/126053650-a73af2b1-fb56-4dba-84cd-34253bc17253.jpg)
+
 
 9 Repita el problema 7 para el circuito de la figura 9-83.
-![Screenshot_20210717-211446_Drive](https://user-images.githubusercontent.com/86451564/126053655-22e3c9f0-f3e6-4afa-b324-19ac379d64b7.jpg)
 
 11 Vea el circuito de la figura 9-85:
 a Encuentre el circuito equivalente de Thévenin externo a RL.
 b. Use el circuito equivalente para determinar Vab cuando RL=20ohm y cuando RL=50ohm.
-![Screenshot_20210717-211504_Drive](https://user-images.githubusercontent.com/86451564/126053672-4a310fb6-ad86-47b1-ad63-ef1d4cc0e4b7.jpg)
 
 13 Vea el circuito de la figura 9-87:
 a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas.
 b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
-![Screenshot_20210717-211523_Drive](https://user-images.githubusercontent.com/86451564/126053679-90c82021-04f5-4a5a-a048-dd2c8c7fd51d.jpg)
+
 
 15 Vea el circuito de la figura 9-89:
 a. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican.
 b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas que se indican.
-![Screenshot_20210717-211550_Drive](https://user-images.githubusercontent.com/86451564/126053685-aca1a0b3-6cc7-4cab-938e-49cbbe9e4a16.jpg)
+
 
 17 Vea el circuito de la figura 9-91:
 a. Encuentre el circuito equivalente de Thévenin externo a RL.
 b. Use el circuito equivalente de Thévenin para encontrar la corriente I
 cuando RL=0, 10 kohm y 50 kohm
-![Screenshot_20210717-211604_Drive](https://user-images.githubusercontent.com/86451564/126053688-80594ba1-6ad4-4f3e-9077-a1152153a5ee.jpg)
 
 19 Repita el problema 17 para el circuito de la figura 9-93.
-![Screenshot_20210717-211621_Drive](https://user-images.githubusercontent.com/86451564/126053700-5049a87c-8da5-4a9f-9187-95235326f333.jpg)
 
 21 Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
-![Screenshot_20210717-211635_Drive](https://user-images.githubusercontent.com/86451564/126053704-7434afa0-7046-427f-8cbd-f9d2f1b620e4.jpg)
+
 
 23 Repita el problema 22 para el circuito de la figura 9-97.
-![Screenshot_20210717-211649_Drive](https://user-images.githubusercontent.com/86451564/126053710-17f6279c-82a9-45f5-a94f-6a9a9dcb3655.jpg)
+
 
 **9-3 Teorema de Norton**
 
