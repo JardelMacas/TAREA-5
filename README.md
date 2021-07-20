@@ -65,22 +65,48 @@ cuando RL=0, 10 kohm y 50 kohm
 **9-3 Teorema de Norton**
 
 25.Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
+![CAPITULO 9_Ejer_25_33_00001 (2)](https://user-images.githubusercontent.com/84453441/126249205-5ca54a46-31d8-4f8e-8873-eb330189f04c.png)
+![CAPITULO 9_Ejer_25_33_00001 (3)](https://user-images.githubusercontent.com/84453441/126249218-7a66b38e-6b00-4d61-a5ec-088b5029c1e4.png)
+![CAPITULO 9_Ejer_25_33_00002 (2)](https://user-images.githubusercontent.com/84453441/126249363-97095bf0-6854-47ef-9d4f-3b8b9103ca74.png)
 
 27.Repita el problema 25 para el circuito de la figura 9-83.
+![CAPITULO 9_Ejer_25_33_00002 (3)](https://user-images.githubusercontent.com/84453441/126249416-05b7dff6-4182-4dc2-9f82-4d7021cc30a0.png)
+![CAPITULO 9_Ejer_25_33_00003 (2)](https://user-images.githubusercontent.com/84453441/126249555-940466c3-768a-4623-a70d-8bf278481d41.png)
+![CAPITULO 9_Ejer_25_33_00003 (3)](https://user-images.githubusercontent.com/84453441/126249574-49d3df9a-eb53-4165-aad1-610d50f68b9c.png)
 
 29.Vea el circuito de la figura 9-85: 
 
 a. Encuentre el circuito equivalente de Norton externo a RL. 
 
 b. Use el circuito equivalente para determinar IL cuando RL = 20 kΩ y cuando RL = 50 kΩ.
+![CAPITULO 9_Ejer_25_33_00004 (2)](https://user-images.githubusercontent.com/84453441/126249871-5c47a92f-11ed-40ff-b88b-9242a04bf698.png)
+![CAPITULO 9_Ejer_25_33_00004 (3)](https://user-images.githubusercontent.com/84453441/126249886-151516c8-cb5f-43b1-aeba-461df3e337d8.png)
+![CAPITULO 9_Ejer_25_33_00005 (2)](https://user-images.githubusercontent.com/84453441/126250035-452f591f-de55-4999-bb6f-5bd55150a83d.png)
+![CAPITULO 9_Ejer_25_33_00005 (3)](https://user-images.githubusercontent.com/84453441/126250058-0bad58ad-ed47-4620-a013-dccf97a9d370.png)
 
 31.a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87. 
 
 b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton.
+![CAPITULO 9_Ejer_25_33_00006 (2)](https://user-images.githubusercontent.com/84453441/126250201-10a8eb3d-9693-43ed-9ee2-ae2c9de93676.png)
+![CAPITULO 9_Ejer_25_33_00006 (3)](https://user-images.githubusercontent.com/84453441/126250219-d053819c-7a42-4565-bd5d-1017aa9b2bf8.png)
+![CAPITULO 9_Ejer_25_33_00007 (2)](https://user-images.githubusercontent.com/84453441/126250319-87663cc3-78af-4113-9291-1831c626105a.png)
+![CAPITULO 9_Ejer_25_33_00007 (3)](https://user-images.githubusercontent.com/84453441/126250335-cf6c805c-f74a-4a41-b274-3529d06cf6c3.png)
 
 33.Repita el problema 31 para el circuito de la figura 9-91.
+![CAPITULO 9_Ejer_25_33_00008 (2)](https://user-images.githubusercontent.com/84453441/126250608-40759d6d-c559-42f9-8b59-ec68af0c67a9.png)
+![CAPITULO 9_Ejer_25_33_00008 (3)](https://user-images.githubusercontent.com/84453441/126250620-58a89098-ef32-4773-91d9-455c0057b2a2.png)
+![CAPITULO 9_Ejer_25_33_00009 (2)](https://user-images.githubusercontent.com/84453441/126250756-cb1826a1-8637-4a4d-85f8-b2a797a8afa1.png)
+![CAPITULO 9_Ejer_25_33_00009 (3)](https://user-images.githubusercontent.com/84453441/126250771-bdee2afc-416b-4f7b-887b-aa2ad40cf5f7.png)
+![CAPITULO 9_Ejer_25_33_00010 (2)](https://user-images.githubusercontent.com/84453441/126250920-ce90aa80-3cd4-4ad0-ae77-1144ffe42498.png)
 
 35.Repita el problema 31 para el circuito de la figura 9-95.
+![CAPITULO 9_Ejer_25_33_00010 (3)](https://user-images.githubusercontent.com/84453441/126250936-7ecccb8e-2e7f-4135-a119-51a55514d70b.png)
+![123 (2)](https://user-images.githubusercontent.com/84453441/126251214-3e22bd52-8658-4e59-9cdb-a487af34445f.png)
+![123 (3)](https://user-images.githubusercontent.com/84453441/126251233-bb69f1dc-d424-43ce-9639-706f5f0c9ab2.png)
+![CAPITULO 9_Ejer_25_33_00012 (2)](https://user-images.githubusercontent.com/84453441/126251355-2b83fc2b-39d8-47cf-b59f-496f250a4dae.png)
+![CAPITULO 9_Ejer_25_33_00012 (3)](https://user-images.githubusercontent.com/84453441/126251375-c8474407-026f-47ec-8bca-efa85d5801f9.png)
+![CAPITULO 9_Ejer_25_33_00013 (2)](https://user-images.githubusercontent.com/84453441/126251546-27c0b435-e037-4122-b04a-9f4826ed8ed6.png)
+![CAPITULO 9_Ejer_25_33_00013 (3)](https://user-images.githubusercontent.com/84453441/126251561-b0fb32cf-1072-4945-9f96-9192e23ce046.png)
 
 **9-4 Teorema de transferencia de máxima potencia** 
 
