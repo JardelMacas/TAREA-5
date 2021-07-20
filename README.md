@@ -116,6 +116,8 @@ b. Calcule la máxima potencia suministrada por RL.
 **10-1 Capacitancia**
 
 1.Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
+![CAPITULO 10_Cap_1_16_00001 (2)](https://user-images.githubusercontent.com/84453441/126245201-3f5cdf1c-9e91-4f0b-b0da-471d81ea29c4.png)
+![CAPITULO 10_Cap_1_16_00001 (3)](https://user-images.githubusercontent.com/84453441/126245229-1f2026de-94a2-4641-b01c-a0fff19a7ddc.png)
 
 3.La carga en un capacitor de 50 µF es de 10 x 10^-3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
 
