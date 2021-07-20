@@ -150,6 +150,8 @@ b. Calcule la máxima potencia suministrada por RL.
 
 
 **CAPITULO 10**
+![downloadfile(7)_page-0001](https://user-images.githubusercontent.com/86451564/126337396-6e00a0a5-ab51-4f4c-acdb-81e8dbec8b4d.jpg)
+
 
 **10-1 Capacitancia**
 
