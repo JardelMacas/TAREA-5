@@ -26,7 +26,6 @@ Objetivos Especificos
 
 
 **CAPITULO 9**
-CAPITULO 9
 
 9-1 Teorema de Superposición
 1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
