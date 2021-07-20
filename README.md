@@ -115,14 +115,24 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
 
 c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0 Ω a 50 kΩ en incrementos de 5 kΩ.
+![CAPITULO 9_Ejer_25_33_00014 (2)](https://user-images.githubusercontent.com/84453441/126251729-249bbbe4-30b4-4f7f-b161-5b47b29f5dd3.png)
+![CAPITULO 9_Ejer_25_33_00014 (3)](https://user-images.githubusercontent.com/84453441/126251744-627cd28c-ce5d-43ea-a377-dfa520636277.png)
+![CAPITULO 9_Ejer_25_33_00015 (2)](https://user-images.githubusercontent.com/84453441/126251846-97b284a2-6a75-4ed5-a500-be8404d80784.png)
+![CAPITULO 9_Ejer_25_33_00015 (3)](https://user-images.githubusercontent.com/84453441/126251857-2cc2d053-e056-42f8-8b1f-8ed3b4af3287.png)
 
 39.a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL = RTh.
 
 b. Calcule la máxima potencia disipada por RL. 
+![CAPITULO 9_Ejer_25_33_00016 (2)](https://user-images.githubusercontent.com/84453441/126252119-a1e5fc9f-6c9c-4c4a-acb2-4d20639cb80c.png)
+![CAPITULO 9_Ejer_25_33_00016 (3)](https://user-images.githubusercontent.com/84453441/126252126-49c5f406-3d6f-4cfd-9b81-831a28c08d60.png)
+![CAPITULO 9_Ejer_25_33_00017 (2)](https://user-images.githubusercontent.com/84453441/126252274-afa966c1-fc63-4740-8e05-9390610dfa49.png)
 
 41.a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de una manera que la carga de 32 kΩ reciba la máxima potencia. 
 
 b. Calcule la máxima potencia suministrada por RL.   
+![CAPITULO 9_Ejer_25_33_00017 (3)](https://user-images.githubusercontent.com/84453441/126252309-55687c1c-4367-4f9b-8a60-731f62f539fd.png)
+![CAPITULO 9_Ejer_25_33_00018 (2)](https://user-images.githubusercontent.com/84453441/126252553-0fe6aa22-c87a-4693-9968-e8a89daecbda.png)
+![CAPITULO 9_Ejer_25_33_00018 (3)](https://user-images.githubusercontent.com/84453441/126252565-461da58a-db1d-4bd7-9c7c-85602c787570.png)
 
 
 
