@@ -137,7 +137,6 @@ cuando RL=0, 10 kohm y 50 kohm
 29.Vea el circuito de la figura 9-85: 
 
 a. Encuentre el circuito equivalente de Norton externo a RL. 
-
 b. Use el circuito equivalente para determinar IL cuando RL = 20 kΩ y cuando RL = 50 kΩ.
 ![CAPITULO 9_Ejer_25_33_00004 (2)](https://user-images.githubusercontent.com/84453441/126249871-5c47a92f-11ed-40ff-b88b-9242a04bf698.png)
 ![CAPITULO 9_Ejer_25_33_00004 (3)](https://user-images.githubusercontent.com/84453441/126249886-151516c8-cb5f-43b1-aeba-461df3e337d8.png)
@@ -334,9 +333,15 @@ voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
 
 ![imagen20](https://user-images.githubusercontent.com/84357979/126386477-49017224-8412-409a-9bc9-bfe08b5c191e.png)
 
-29) Un capacitor de 30μF se conecta en paralelo con un capacitor de 60 μF y otro de 10 μF se conecta en serie con la combinación en paralelo ¿Cuál es el valor de C_T?
+29 Un capacitor de 30μF se conecta en paralelo con un capacitor de 60 μF y otro de 10 μF se conecta en serie con la combinación en paralelo ¿Cuál es el valor de C_T?
 
 ![imagen21](https://user-images.githubusercontent.com/84357979/126386576-e4075141-d9e2-4d03-a837-52624b76520a.png)
+
+31 Para la figura 10-36, determine C3 y C4.
+![image](https://user-images.githubusercontent.com/84357979/126386822-6fe7688b-6d70-49c5-a86b-7bcd9de95df2.png)
+
+![imagen22](https://user-images.githubusercontent.com/84357979/126386878-adcbf000-daba-428b-bb60-9b89fc4ad57a.png)
+
 
 
 39 Repita el problema 38 para el circuito de la figura 10-39.
