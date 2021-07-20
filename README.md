@@ -48,6 +48,41 @@ Circuito B:
 
 ![image](https://user-images.githubusercontent.com/84357979/126383765-d14ddf63-8289-4ba3-b57c-5b8145f9c98b.png)
 
+Redibujando el Circuito:
+
+![image](https://user-images.githubusercontent.com/84357979/126384079-22b2676f-cc5c-44e5-9858-7b4eb3d5ed9d.png)
+
+Circuito A:
+
+![image](https://user-images.githubusercontent.com/84357979/126384094-8be8ce2f-982d-4e4e-aa89-81967011ae55.png)
+![image](https://user-images.githubusercontent.com/84357979/126384097-4a5b238b-5fca-4cf4-a5c4-d09ef4b0c59b.png)
+
+![imagen3](https://user-images.githubusercontent.com/84357979/126384167-3ea0ee70-6d47-4535-bc82-4380788db631.png)
+
+Circuito B:
+
+![image](https://user-images.githubusercontent.com/84357979/126384197-b11b2d72-8a20-4f41-8ecc-50acae9fdadf.png)
+![image](https://user-images.githubusercontent.com/84357979/126384205-5c5e1111-b3c0-4d4c-aea1-0d4f5a8057e6.png)
+
+![imagen4](https://user-images.githubusercontent.com/84357979/126384252-6c9443f8-e6ce-43c4-8889-47db45e1a6e3.png)
+
+5) En el circuito de la figura 9-79 ¿Cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea I_L=5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
+
+![image](https://user-images.githubusercontent.com/84357979/126384280-5f890db2-15a4-4de2-aea2-b2c301d0827a.png)
+
+Circuito A:
+
+![image](https://user-images.githubusercontent.com/84357979/126384310-f87c9120-e09d-4c8f-b14d-7a23197207b6.png)
+![image](https://user-images.githubusercontent.com/84357979/126384313-5d1a627a-9cbc-4135-a63d-01c65edf3156.png)
+
+![imagen5](https://user-images.githubusercontent.com/84357979/126384360-cd091aca-4859-46a5-a7fa-68b7a54ab33e.png)
+
+Circuito B:
+
+![image](https://user-images.githubusercontent.com/84357979/126384378-6f564b54-63dd-4538-b65f-131dd241149d.png)
+![image](https://user-images.githubusercontent.com/84357979/126384381-03eb5e50-7fc2-4440-9891-2f4ec3c73bac.png)
+
+![imagen6](https://user-images.githubusercontent.com/84357979/126384424-18f3b1bd-83f9-48aa-8f14-c7b974cde76d.png)
 
 7 Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
 ![Screenshot_20210719-213152_Drive](https://user-images.githubusercontent.com/86451564/126253405-ed5521fc-d43a-46b7-bceb-7d48ea921df3.jpg)
