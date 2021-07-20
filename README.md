@@ -19,6 +19,7 @@ Objetivos Especificos
 
 **2.MARCO TEORICO**
 
+![downloadfile(7)_page-0001](https://user-images.githubusercontent.com/86451564/126337396-6e00a0a5-ab51-4f4c-acdb-81e8dbec8b4d.jpg)
 
 
 **3.EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS**
@@ -194,22 +195,83 @@ b. Calcule la máxima potencia suministrada por RL.
 ![CAPITULO 9_Ejer_25_33_00018 (2)](https://user-images.githubusercontent.com/84453441/126252553-0fe6aa22-c87a-4693-9968-e8a89daecbda.png)
 ![CAPITULO 9_Ejer_25_33_00018 (3)](https://user-images.githubusercontent.com/84453441/126252565-461da58a-db1d-4bd7-9c7c-85602c787570.png)
 
+9-5 Teorema de Sustitucion
+
+43 Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor de 50 Ω, determine la magnitud y polaridad de la fuente de Voltaje resultante.
+
+![image](https://user-images.githubusercontent.com/84357979/126384624-f4b7caca-6545-40e8-a971-95cd3ef933d8.png)
+![image](https://user-images.githubusercontent.com/84357979/126384630-617ed63f-4f55-4beb-8391-25163d152160.png)
+
+![imagen7](https://user-images.githubusercontent.com/84357979/126384676-7e1ce44e-65f0-4fd4-83e6-f3d3b651523c.png)
+
+9.6 Teorema de Millman,
+45. Use el teorema de Millman para encontrar la corriente y la potencia disipada por R_L en el circuito de la figura 9-103.
+
+![image](https://user-images.githubusercontent.com/84357979/126384711-42a92daa-8e0f-4d8a-bb0c-6766cb51d630.png)
+
+Redibujando un circuito de Millman:
+
+![image](https://user-images.githubusercontent.com/84357979/126384734-bb16df41-6bc6-4e0f-9d92-dbc9a64acebd.png)
+
+![imagen8](https://user-images.githubusercontent.com/84357979/126384808-2d29cea0-3de6-4baa-8a63-e22b2b9b0751.png)
+
+![image](https://user-images.githubusercontent.com/84357979/126384824-49436ced-75f6-4290-a8d3-a6cd235a54a6.png)
+
+![imagen9](https://user-images.githubusercontent.com/84357979/126384887-c0285ab5-5962-43c3-80c6-87468958d955.png)
 
 
+47. Repita el problema 45 para el circuito de la figura 9-105
+
+![image](https://user-images.githubusercontent.com/84357979/126384910-593503f1-51cc-4610-aba3-bbf9ef25f656.png)
+
+![image](https://user-images.githubusercontent.com/84357979/126384920-b20f85c8-8aab-48a0-b8e7-5f4a613d33be.png)
+
+![imagen10](https://user-images.githubusercontent.com/84357979/126384969-4ec6b9d3-e551-4702-9ced-074a29443c2e.png)
 
 
+Teorema de Reciprocidad
+49. a. Determine la corriente I en el circuito de la figura 9-107
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/84357979/126384989-9237bfdc-918d-4b7d-a995-0cda572cd605.png)
+
+Aplicando Teorema de Thevenin:
+
+![image](https://user-images.githubusercontent.com/84357979/126385012-9e38c810-6219-4d40-b6c6-8d95c760359d.png)
+![image](https://user-images.githubusercontent.com/84357979/126385026-2d3c1146-b59d-4e75-88f8-ddeaf41311c1.png)
+
+![imagen11](https://user-images.githubusercontent.com/84357979/126385094-732bde54-01cb-4791-8251-e244a8ca70a2.png)
+
+![image](https://user-images.githubusercontent.com/84357979/126385118-6fe3c54b-11cd-4714-a0c7-8d9e0d100fb3.png)
+![image](https://user-images.githubusercontent.com/84357979/126385124-efa2a558-e401-4700-b80d-7d4f1cf9f5ee.png)
+
+![imagen12](https://user-images.githubusercontent.com/84357979/126385199-5f08b665-7f24-488d-b499-035893c04a49.png)
 
 
+b)
 
+![image](https://user-images.githubusercontent.com/84357979/126385217-3aac1abd-c76b-4e6a-8117-33bed3659f93.png)
 
+![imagen13](https://user-images.githubusercontent.com/84357979/126385271-8c0725ff-f562-433b-9c88-5a5eb83a5f0d.png)
 
+51)  a. Determine el voltaje V en el circuito de la figura 9-109 
+b. Demuestre que la reciprocidad se aplica en el circuito dado
 
+![image](https://user-images.githubusercontent.com/84357979/126385298-cab325f5-c88b-4fef-b8f4-f5cf8e0bc36f.png)
+
+![image](https://user-images.githubusercontent.com/84357979/126385305-b19c2146-41a6-4fe7-9954-3bc4fd8516d6.png)
+
+![image](https://user-images.githubusercontent.com/84357979/126385314-d6e9390f-6793-4b6b-83fd-52b4e29a8d94.png)
+
+![image](https://user-images.githubusercontent.com/84357979/126385322-b0e530a9-4d4d-4f7d-af5c-ee164c7ee24a.png)
+
+![imagen14](https://user-images.githubusercontent.com/84357979/126385406-0d95bf71-39d0-4ee8-9561-13f76dfb62b3.png)
+
+![imagen15](https://user-images.githubusercontent.com/84357979/126385490-3169552e-087f-4c43-a152-e15cea48990a.png)
 
 
 
 **CAPITULO 10**
-![downloadfile(7)_page-0001](https://user-images.githubusercontent.com/86451564/126337396-6e00a0a5-ab51-4f4c-acdb-81e8dbec8b4d.jpg)
-
 
 **10-1 Capacitancia**
 
