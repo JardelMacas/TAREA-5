@@ -25,6 +25,29 @@ Objetivos Especificos
 
 
 **CAPITULO 9**
+CAPITULO 9
+
+9-1 Teorema de Superposición
+1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
+![image](https://user-images.githubusercontent.com/84357979/126383427-0255fafa-6fea-42e0-98d6-d5b592a364d7.png)
+
+Circuito A:
+![image](https://user-images.githubusercontent.com/84357979/126383452-fba51dd2-7095-4ffc-b475-7a0a62b3ce74.png)
+![image](https://user-images.githubusercontent.com/84357979/126383455-89e36f87-dfeb-472d-adde-c6fd87b84e74.png)
+
+![imagen1](https://user-images.githubusercontent.com/84357979/126383603-7183f8ab-9dad-4fc4-a43c-0ac7b1e8a7fa.png)
+
+Circuito B:
+![image](https://user-images.githubusercontent.com/84357979/126383646-eae7ae11-ad6c-40ae-9e9c-5d631102e79a.png)
+![image](https://user-images.githubusercontent.com/84357979/126383658-6ab67b7d-1920-40c3-8989-4fcaffbacbeb.png)
+
+![imagen2](https://user-images.githubusercontent.com/84357979/126383724-05feda39-c776-4ff9-a63f-0b90eda6619c.png)
+
+
+3 Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
+
+![image](https://user-images.githubusercontent.com/84357979/126383765-d14ddf63-8289-4ba3-b57c-5b8145f9c98b.png)
+
 
 7 Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
 ![Screenshot_20210719-213152_Drive](https://user-images.githubusercontent.com/86451564/126253405-ed5521fc-d43a-46b7-bceb-7d48ea921df3.jpg)
