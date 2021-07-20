@@ -118,28 +118,37 @@ b. Calcule la máxima potencia suministrada por RL.
 1.Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
 ![CAPITULO 10_Cap_1_16_00001 (2)](https://user-images.githubusercontent.com/84453441/126245201-3f5cdf1c-9e91-4f0b-b0da-471d81ea29c4.png)
 ![CAPITULO 10_Cap_1_16_00001 (3)](https://user-images.githubusercontent.com/84453441/126245229-1f2026de-94a2-4641-b01c-a0fff19a7ddc.png)
+![123 (2)](https://user-images.githubusercontent.com/84453441/126245691-d98581d2-0dd9-4888-bca4-02ed30b37f73.png)
 
 3.La carga en un capacitor de 50 µF es de 10 x 10^-3 C. ¿Cuál es la diferencia de potencial entre sus terminales?
+![123 (3)](https://user-images.githubusercontent.com/84453441/126245706-1966ff34-43ef-4f60-98fd-69c6737b053a.png)
 
 5.Se carga un capacitor 5 µF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a través de sus terminales y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?  
+![123 (4)](https://user-images.githubusercontent.com/84453441/126245729-dc857537-a62e-49d2-b8b8-09206936a252.png)
 
 **10-2 Factores que afectan la capacitancia**
 
 7.Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguiente dimensiones 1 cm x 1.5 cm con una separación de 0.1 mm. ¿Cuál es su capacitancia?
+![123 (5)](https://user-images.githubusercontent.com/84453441/126245742-a5271875-9034-4771-a826-0e1b63645881.png)
 
 9.La capacitancia de un capacitor lleno de aceites es de 200 pF. Si la separación entre las placas es de 0.1 mm, ¿Cuál es el área de las placas?
+![123 (6)](https://user-images.githubusercontent.com/84453441/126245761-6679aaf1-23f5-4269-93d9-ce6555342001.png)
+![123 (2)](https://user-images.githubusercontent.com/84453441/126245990-f3779652-d4f6-42ae-a39b-ad538397f25d.png)
 
 11.Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 µF. Un segundo capacitor con dimensiones físicas idénticas, pero con un dieléctrico de mylar lleva una carga de 55 x 10^-4 C. ¿Cuál es su voltaje?  
+![123 (3)](https://user-images.githubusercontent.com/84453441/126246012-7ce3db08-eee3-406d-bad2-b0d933857708.png)
 
 **10-3 Campos eléctricos** 
 
 13.a. ¿Cuál es la intensidad del campo E a una distancia de 1 cm de una carga de 100 mC en aceite?
 
 b.¿Cuál es E al doble de la distancia?
+![123 (4)](https://user-images.githubusercontent.com/84453441/126246027-d443737d-765d-4e6f-acfd-f3ba953c6876.png)
 
 **10-4 dieléctricos**
 
 15.Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura? 
+![123 (2)](https://user-images.githubusercontent.com/84453441/126246156-d478f14c-b521-4c2c-8a23-934ca101e0e7.png)
 
 17 Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la
 ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
