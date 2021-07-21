@@ -319,10 +319,12 @@ ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
 voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
 ![Screenshot_20210720-153402_Drive](https://user-images.githubusercontent.com/86451564/126392173-b75792ce-85e2-4cd6-8a8f-02acd6a33fc2.jpg)
 
-21 Un capacitor de 25 F tiene un coeficiente de temperatura negativo de 175 ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
+21 Un capacitor de 25 F tiene un coeficiente de temperatura negativo de 175 ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
+
 ![Screenshot_20210720-153419_Drive](https://user-images.githubusercontent.com/86451564/126392236-0cf80a97-3632-4480-a2df-323bf0f2e0d6.jpg)
 
 23. ¿Cuál es la capacitancia equivalente de 10,12,22 y 33 Uf conectados en paralelo?
+
 ![imagen16](https://user-images.githubusercontent.com/84357979/126386080-b0dff9d0-1f41-4a04-b4a0-d383cd18e6ec.png)
 
 25. Repita el problema 23 si los capacitores están conectados en serie.
@@ -344,11 +346,26 @@ voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
 ![imagen21](https://user-images.githubusercontent.com/84357979/126386576-e4075141-d9e2-4d03-a837-52624b76520a.png)
 
 31 Para la figura 10-36, determine C3 y C4.
+
 ![image](https://user-images.githubusercontent.com/84357979/126386822-6fe7688b-6d70-49c5-a86b-7bcd9de95df2.png)
 
 ![imagen22](https://user-images.githubusercontent.com/84357979/126386878-adcbf000-daba-428b-bb60-9b89fc4ad57a.png)
 
+33 Se tienen capacitores de 22,47,2.2 y 10 μF . ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándose de la manera que usted prefiera? ¿y la mas pequeña?
 
+![imagen23](https://user-images.githubusercontent.com/84357979/126413777-10c5a1cf-2993-49de-81b2-5d3b1816ae96.png)
+
+35 Considere capacitores de 1,1.5 y 10 μF, Si CT=10.6 μF ¿Cómo están conectados los capacitores?
+
+![image](https://user-images.githubusercontent.com/84357979/126413809-5ff1eb08-321e-42c7-923c-c51351f82ed3.png)
+
+![imagen24](https://user-images.githubusercontent.com/84357979/126413867-899a1ba8-b85a-4a63-93e2-315e0f249969.png)
+
+37) Para las figuras 10-33 c) y d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b.
+
+![imagen25](https://user-images.githubusercontent.com/84357979/126413982-5aa9dd5a-db2a-4d70-be97-bcb386464b07.png)
+
+![imagen26](https://user-images.githubusercontent.com/84357979/126413989-a6b8c108-04fa-4a72-9453-5e7bcc61a45d.png)
 
 39 Repita el problema 38 para el circuito de la figura 10-39.
 ![Screenshot_20210717-224828_Drive](https://user-images.githubusercontent.com/86451564/126055169-5049ed52-35e4-4227-bb96-578a8251d027.jpg)
