@@ -7,14 +7,21 @@ AUTORES: JERSON CHAMBA-JARDEL MACAS - EDWIN MONTENEGRO
 **1 . OBJETIVOS**
 
 Objetivos Generales
-*  Describir los diferentes metodos de analisis mas eficientes para un circuito Electrico.
+*  Analizar los teoremas de redes existentes para circuitos resistivos complejos
+*  Investigar las caracteristicas y funciones de los capacitores dentro de los circuitos electricos.
 
 
 Objetivos Especificos
 
-* Aplicar los conceptos de resistencias equivalentes y leyes de kirchhoff para resolver redes en serie-paralelo.
-* Analizar mediante distintos metodos las corrientes y Voltajes en un circuito electrico
-* Aplicar transformaciones y rediseños que permitan simplificar a un circuico complejo.
+* Aplicar el teorema de Superposicion para determinar la corriente o el voltaje en cualquier resistencia en una red dada.
+* Establecer el teorema de Thevenin y Norton y determinar sus circuitos equivalentes respectivos en cualquier red resistiva.
+* Determinar la resistencia de carga requerida en cualquier circuito para asegurar que la carga reciba la maxima potencia del circuito.
+* Emplear metodos alternativos poco frecuentes para la resolucion de redes resistivas: Millman, Reciprocidad y Sustitucion.
+
+* Describir que factores afectan a la capacitancia y su comportamiento.
+* Analizar la distribucion serie-paralelo de capacitores en un circuito.
+* Calcular el voltaje y corriente de capacitores para formas de onda simples que varían en el tiempo.
+
 
 
 **2.MARCO TEORICO**
@@ -387,15 +394,19 @@ voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
 
 **4.VIDEO**
 
-Link del Video: https://youtu.be/VD9fv3gpDx0
+Link del Video: https://youtu.be/FK8kZCTtCCw
 
-[![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 7 y 8](https://img.youtube.com/vi/VD9fv3gpDx0/0.jpg)](https://www.youtube.com/watch?v=VD9fv3gpDx0)
+[![Circuitos Eléctricos || Ejercicios Resueltos || Libro de Allan Robbins || Capítulos 9 y 10](https://img.youtube.com/vi/FK8kZCTtCCw/0.jpg)](https://youtu.be/FK8kZCTtCCw)
 
 **5. CONCLUSIONES**
 
-* Para simplificar a un circuito electrico a su forma mas simple es necesario conocer y aplicar los conceptos de resistencias equivalentes en serie y en paralelo, asi como divisor de corriente y voltaje segun lo indique el caso.
-* Un circuito puede ser analizado y modelado de diferentes formas, teniendo como metodos principales de este capitulo al metodo de ramas, nodos y mallas, los cuales pueden simplificar mucho el proceso de obtencion de los voltajes y corrientes dentro de un circuito electrico.
-* Un circuito electrico no siempre tendra un diseño clasico, sin embargo para su analisis se puede rediseñar el mismo, hasta llevarlo a una forma conocida.
+* El teorema de superposicion divide el analisis de un circuito complejo en varios circuitos simples que permiten su calculo de una manera mas simplificada.
+* Al aplicar el teorema de Thevenin reducimos cualquier circuito complejo a un circuito con una fuente de voltaje en serie con un resistor, para el circuito de Norton se reduce a una fuente de corriente en paralelo con un resistor.
+* Si se desea tener la mayor potencia suministrada a una resistencia, esta debe tener un valor muy cercano o igual a la resistencia equivalente de thevenin (norton).
+* Los teoremas de sustitucion y Millman poseen muchas limitaciones, sin embargo en las condiciones adecuadas pueden simplificar el calculo de circuitos complejos.
+* La capacitancia de un capacitor depende principalmente del espacio entre sus placas, el area de las mismas y del material dielectrico que separara dichas placas.
+* Los capacitores en serie-paralelo tienen un comportamiento inverso a las resistencias en serie-paralelo, los capacitores en serie se suman inversamente y los que estan en paralelo se suman directamente.
+* Al aplicar un poco de los conceptos de calculo tenemos una relacion lineal entre el voltaje y la corriente, la cual afecta de manera similar a la capacitancia.
 
 **6.BIBLIOGRAFÍA**
 
